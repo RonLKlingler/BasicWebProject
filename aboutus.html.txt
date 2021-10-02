@@ -4,34 +4,7 @@
 <html lang="en-us">
 <meta name="viewport" content="width=device-width, initial-scale=1.0";charset="UTF-8">
 <title>About Us Page</title>
-<style>
-  body {background-color: green; text-align:center;}
-  h1 {color: yellow; text-align:center;}
-  p {color: white; text-align:center;}
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
+<link rel="stylesheet" href="piratestyle.css">
 </head>
 
 <body>
